@@ -443,7 +443,8 @@
 
 **197.** [Spring MVC. HTTP-клиенты](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/197/Spring%20MVC.%20HTTP%20clients.md)
 
-- Spring MVC. Интеграция Jakarta Validation
+**198.** [Spring MVC. Валидация. Интеграция Jakarta Validation](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/198/Spring%20MVC.%20Validation.%20Jakarta%20Validation%20integration.md)
+
 - Spring MVC. Обработка ошибок
 - Spring MVC. Тонкая настройка
 - Spring MVC. Что дальше?
