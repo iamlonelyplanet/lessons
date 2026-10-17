@@ -445,9 +445,9 @@
 
 **198.** [Spring MVC. Валидация. Интеграция Jakarta Validation](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/198/Spring%20MVC.%20Validation.%20Jakarta%20Validation%20integration.md)
 
-- Spring MVC. Обработка ошибок
+**199.** [Spring MVC. Обработка ошибок](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/199/Spring%20MVC.%20Exception%20handling.md)
+
 - Spring MVC. Тонкая настройка
-- Spring MVC. Что дальше?
 
 ### Spring JDBC
 
